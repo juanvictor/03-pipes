@@ -37,4 +37,6 @@ export class AppComponent {
 
     videoUrl: string ='https://www.youtube.com/embed/jB3FMQe0J4w';
 
+    activar: boolean = true;
+
 }
